@@ -14,11 +14,11 @@ Movies were compared on genre, number of genres each movie contained, and MPAA r
 
 ##Domestic Gross by MPAA Rating
 
-![Gross by MPAA Rating](/images/GrossByMPAARatingjpeg)
+![Gross by MPAA Rating](/images/GrossByMPAARating.jpeg)
 
 ##Domestic Gross by MPAA Rating
 
-![Gross by Genre](/images/GrossByGenrejpeg)
+![Gross by Genre](/images/GrossByGenre.jpeg)
 
 ##Domestic Gross by MPAA Rating
 
