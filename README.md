@@ -14,7 +14,7 @@ I compared the movies on genre, number of genres each movie contained, and MPAA 
 
 The first feature I explored was MPAA rating, as illustrated in the chart below showing the mean gross per movie for each rating. The PG-13 rating is considered to be the sweet spot for movies, and it certainly does do well, but the interesting thing about this chart is that the G rated movies perform just as well, with PG movies not far behind. It is not surprising that R rated movies, with their smaller pool of potential audience members, gross significantly less.
 
-![Gross by MPAA Rating](images/GrossByMPAARating.jpeg)
+![Gross by MPAA Rating](https://github.com/PauletteJ/Movie-Genre-Analysis/blob/main/images/GrossByMPAARating.jpg)
 
 ##Domestic Gross by Genre
 
