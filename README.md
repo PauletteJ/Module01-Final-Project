@@ -20,14 +20,14 @@ The first feature I explored was MPAA rating, as illustrated in the chart below 
 
 Next I compared the various genres on their domestic gross. BoxOffice Mojo lists 21 different genres. Science fiction outperformed all other genres, including the action and adventure categories. The top seven genres (science fiction, adventure, action, musical, family, and fantasy) have a general theme of escapism. There is a clear break in the mean gross of those genres with that of more realistic genres from comedy to documentary.
 
-![Gross by Genre](images/GrossByGenre.jpeg)
+![Gross by Genre](https://github.com/PauletteJ/Movie-Genre-Analysis/blob/main/images/GrossByGenre.jpeg)
 
 ##Domestic Gross by Number of Genres
 
 A feature that is considered less often is the number of genres a movie fits in. Crossing over genres is important in the publishing industry, as it is seen as an opportunity to broaden the potential audience of a particular work. The chart below illustrates a similar effect for movies, with the peak gross being for movies with six genres. Only one movie, which happened to have a small domestic gross, had eight genres listed.
 
 
-![Gross by Number of Genres](images/GrossByNumberOfGenresjpeg)
+![Gross by Number of Genres](https://github.com/PauletteJ/Movie-Genre-Analysis/blob/main/images/GrossByNumberOfGenresjpeg)
 
 ## Summary
 
