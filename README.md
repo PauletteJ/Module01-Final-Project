@@ -14,20 +14,20 @@ I compared the movies on genre, number of genres each movie contained, and MPAA 
 
 The first feature I explored was MPAA rating, as illustrated in the chart below showing the mean gross per movie for each rating. The PG-13 rating is considered to be the sweet spot for movies, and it certainly does do well, but the interesting thing about this chart is that the G rated movies perform just as well, with PG movies not far behind. It is not surprising that R rated movies, with their smaller pool of potential audience members, gross significantly less.
 
-![Gross by MPAA Rating](/images/GrossByMPAARating.jpeg)
+![Gross by MPAA Rating](./images/GrossByMPAARating.jpeg)
 
 ##Domestic Gross by Genre
 
 Next I compared the various genres on their domestic gross. BoxOffice Mojo lists 21 different genres. Science fiction outperformed all other genres, including the action and adventure categories. The top seven genres (science fiction, adventure, action, musical, family, and fantasy) have a general theme of escapism. There is a clear break in the mean gross of those genres with that of more realistic genres from comedy to documentary.
 
-![Gross by Genre](/images/GrossByGenre.jpeg)
+![Gross by Genre](./images/GrossByGenre.jpeg)
 
 ##Domestic Gross by Number of Genres
 
 A feature that is considered less often is the number of genres a movie fits in. Crossing over genres is important in the publishing industry, as it is seen as an opportunity to broaden the potential audience of a particular work. The chart below illustrates a similar effect for movies, with the peak gross being for movies with six genres. Only one movie, which happened to have a small domestic gross, had eight genres listed.
 
 
-![Gross by Number of Genres/images/GrossByNumberOfGenresjpeg)
+![Gross by Number of Genres](./images/GrossByNumberOfGenresjpeg)
 
 ## Summary
 
